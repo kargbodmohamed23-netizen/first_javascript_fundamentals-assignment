@@ -1,0 +1,8 @@
+let courses = ["JavaScript", "Networking", "Database", "Web Design"];
+let lecturers = new Array("Amadu", "Salu", "Foday");
+
+console.log(courses[0]);
+console.log(courses[2]);
+
+console.log(`******************`);
+console.log(`Lecturers: ${lecturers}`);
